@@ -55,4 +55,4 @@ The dashboard highlights customer demographics, income levels, commute distances
 - Next steps: Use regional and education filters to create **customer personas** and run **targeted campaigns**.  
 
 
-## 📂 Repository Structure
+
